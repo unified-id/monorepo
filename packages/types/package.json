@@ -1,0 +1,12 @@
+{
+	"name": "types",
+	"version": "0.0.0",
+	"main": "index.ts",
+	"license": "MIT",
+	"dependencies": {
+		"eslint": "7.32.0"
+	},
+	"devDependencies": {
+		"typescript": "^4.7.4"
+	}
+}
